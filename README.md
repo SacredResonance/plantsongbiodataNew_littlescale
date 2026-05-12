@@ -28,3 +28,8 @@ const unsigned long CH2_MIN_RAW_DELTA = 100;
 const unsigned long CH3_MIN_RAW_DELTA = 220;
 This patch watches for a delta spike compared to the recent normal delta level, so Channel 2 and 3 should open only when the plant data jumps strongly, not just because the pot is sensitive.
 
+<br>
+
+Select Teensy 4.1 
+Select Serial + Midi to uplaod 
+
